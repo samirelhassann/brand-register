@@ -1,5 +1,7 @@
-NewCompany.class
+RemoveCompany.class
+Database.class
+EditCompany.class
+CompanyController.class
 ListCompanies.class
 Hello.class
-Database.class
 Company.class
